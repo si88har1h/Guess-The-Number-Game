@@ -23,6 +23,7 @@ document.querySelector('.check').addEventListener('click', function () {
       document.querySelector('.score').textContent = gameScore;
     } else {
       displayMessage('💀You Lost!');
+      document.querySelector('.number').textContent = '💀';
       document.querySelector('.score').textContent = 0;
     }
   }
