@@ -6,4 +6,4 @@ I made this small web based game using HTML CSS and JavaScript.
 
 ![Game won state](/images/game-won.png?raw=true "Game won state")
 
-![Game lost state](/images/game-lost?raw=true "Game lost state")
+![Game lost state](/images/game-lost.png?raw=true "Game lost state")
